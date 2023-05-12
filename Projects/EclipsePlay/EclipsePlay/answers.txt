@@ -1,0 +1,8 @@
+1. The reverting action changes the file back to a base state.
+
+2. Stepping over from the toggle breakpoint, the console prints out the string statement.
+You can see the Friend objects that were made how each iteration prints out each Friend in the friends array.
+
+3. After commenting out the toString function, the console still prints the string statement from the previous question
+but also prints the commented string. Which is 
+	Person [getEmail()=baldwin, getName()=Mark]

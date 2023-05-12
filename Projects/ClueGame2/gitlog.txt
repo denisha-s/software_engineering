@@ -1,0 +1,702 @@
+commit 374dc70cfb1e6e67b3306bbbf319fcb5bc664421
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Apr 20 13:26:42 2023 -0600
+
+    Finished Clue!
+
+commit d5e6fc0722a56bbe416fc2fa1ede3695e3fe608d
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Apr 19 21:36:07 2023 -0600
+
+    fixed clicking targets problem
+
+commit d3d0e4b2f1ad23cb2f275552b23ceb2128b6f6c3
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Apr 19 20:55:39 2023 -0600
+
+    Made one change
+
+commit 78041efb5697fa5e2f33f88bd7c82ac93e4c85ac
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Apr 19 20:54:22 2023 -0600
+
+    Worked on computer accusation and suggestion
+
+commit 212d2baebb208b853c35a5bd1f81b26fc73a0df3
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Apr 19 10:12:16 2023 -0600
+
+    Working on making suggestion
+
+commit 00e45e40999b3f9358226e48d9e7d08a7a0bbde8
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Apr 18 22:14:30 2023 -0600
+
+    Added some changes
+
+commit fef26757141d7fd6791a34247483fa8e303aa39f
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Apr 18 21:53:30 2023 -0600
+
+    Working on displaying suggestion and accusation dialog boxes
+
+commit 03961ee4c26909d51c06805e9edee389226a34e4
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Apr 18 12:49:19 2023 -0600
+
+    Added gitlog.txt
+
+commit 6dd1dcf95e7914c9295f411de2e759abd260337e
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Apr 17 16:42:10 2023 -0600
+
+    Made final changes
+
+commit f4334626c7641dc47712a2356c42452d93f2b7e6
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Apr 17 13:51:33 2023 -0600
+
+    Still working on clicking targets
+
+commit d58833e5ca14d1145d47f75deb629b85ff7e31fe
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Apr 16 09:58:15 2023 -0600
+
+    Working on displaying players next to each other in roomcells that have multiple players
+
+commit c82575bcc55a5de91b57a0074fca69722ccb2fe2
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Fri Apr 14 13:33:18 2023 -0600
+
+    Made room draw its label instead of cell, simplifying code
+
+commit ba4b32d00c7e51ca6d691196649c14d8ea4f9322
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Apr 13 23:58:50 2023 -0600
+
+    Made room loop through its cells and redraw them to efficiently highlight targets
+
+commit 688609c9b053d2c548b9771e82214434610e41b7
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Apr 13 13:43:16 2023 -0600
+
+    created a color switcher and moved it into its own function
+
+commit c1d3ca1f314b4b607a37a884576d0b0576f2d629
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Apr 13 13:27:06 2023 -0600
+
+    Moved code from main into the ClueGame frame constructor
+
+commit 4edd3593272be901af4226d4317db92bce4660a8
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Apr 13 13:22:44 2023 -0600
+
+    simplified draw function for board cell with less redundancy.
+
+commit 32187ec1e9c59f8dfd159e55cc4fa64ee81c837b
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Apr 13 13:21:17 2023 -0600
+
+    Moved code to draw player to player class.
+
+commit 55ba4db1e5fe9cb9291d778302e5659edfe4499f
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Apr 13 13:19:50 2023 -0600
+
+    Reorganized for loops to switch statements.
+
+commit 1660656ccaa66f50c68be11b4075584ca9ec9138
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Apr 13 13:10:49 2023 -0600
+
+    Moved header block
+
+commit 217aaa78e698587dd91e920de9e645e2253a403e
+Merge: d5b01de 4c3c4bb
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Apr 13 13:07:25 2023 -0600
+
+    Merge branch 'main' of https://github.com/irfanokirana/ClueGame2
+
+commit d5b01de7a881a618cc28d5ce00f1f8c08df7011d
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Apr 13 13:07:08 2023 -0600
+
+    Code review
+
+commit 4c3c4bbad7a45cda024639e5b41cd22535de20be
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Apr 13 13:01:47 2023 -0600
+
+    Added comments
+
+commit f10cd9a527036c6e920da2824302ee0b60b42a53
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Apr 12 22:03:34 2023 -0600
+
+    Working on Mouse click events
+
+commit 332c4b163810f00adfcdb64cc02ec514251a1ab2
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Apr 12 09:06:04 2023 -0600
+
+    Still working on handling next button
+
+commit 15b02ca9838216415e55993049735aad20c632cc
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Apr 11 22:04:51 2023 -0600
+
+    Working on handling NEXT button
+
+commit 7a6cbccc0e89871728c6e29a6338daacb4cb6074
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Apr 11 10:00:44 2023 -0600
+
+    Tested some modifications
+
+commit af764168ce2824c89f9c4c4bf285e3dd419423f1
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Apr 10 11:24:30 2023 -0600
+
+    Added comments
+
+commit 5a08975766f2f85e99f7b268d0c5c52624d1da49
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Apr 9 21:33:47 2023 -0600
+
+    Tried to fix sizing issues
+
+commit 7d908f346c1ef514c18e1a53f152bcd656c2a119
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sat Apr 8 12:54:34 2023 -0600
+
+    Completed drawing the board
+
+commit 01d1d6fe3ad25b56549f188428fae4439850a92b
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Fri Apr 7 18:09:25 2023 -0600
+
+    Started to create full display board
+
+commit 2aa115a4b27240b229360eebcdf9a1a1fbe9ed97
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Apr 6 12:23:19 2023 -0600
+
+    Created new Cluegame class, and started drawing Board.
+
+commit 4f105346054c292cb77c0cc5ddb8995a6ac61e74
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Apr 6 11:12:44 2023 -0600
+
+    Added git log
+
+commit e8add10b2cd91cdccfd0e12d865235a03f909cc0
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Apr 5 16:33:35 2023 -0600
+
+    Finalized changes for card panel
+
+commit 66f1850d54d97b09124c05ea158ce49c430db86e
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Wed Apr 5 16:18:32 2023 -0600
+
+    Added comments and header block, and removed white spaces.
+
+commit 5fafa732349766c937a6e6d8097f288963c73858
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Apr 5 15:03:58 2023 -0600
+
+    Completed the Card panel
+
+commit 46e0accdb354c94b4d10a8197455842695b8a1dc
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Tue Apr 4 13:07:47 2023 -0600
+
+    added gitlog
+
+commit 9997f741c8d3b4d8aee8be13d763bf93013200a7
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Tue Apr 4 12:30:26 2023 -0600
+
+    added comments.
+
+commit 1c9fba02e35556285d35f60a043eefa6ecbd0fbb
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Tue Apr 4 12:15:24 2023 -0600
+
+    Added header block and comments.
+
+commit ba200b4ec839fc82e5bb5ba4aa16e49bcaf6e98e
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Apr 4 11:26:43 2023 -0600
+
+    Created lower portion of Game Control Panel
+
+commit f9b00661b404a0b37b0716442ba30ceb71f893bd
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Apr 3 21:25:06 2023 -0600
+
+    Completed Control Panel
+
+commit 92b91ba143bbbb6d2dd5bfabc9b157461d8ecf34
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Mon Apr 3 10:46:16 2023 -0600
+
+    added gitlog
+
+commit 49ce596977e3bfd4bf148add54eaefa541593085
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Mon Apr 3 10:41:25 2023 -0600
+
+    Refactored code.
+
+commit 83bafd5192a67f1c8e31e8c52510e211d12245cd
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Mon Apr 3 10:39:18 2023 -0600
+
+    Cleaned code and added comments.
+
+commit c6b370867716a042ec2f25103b77b7397866cb41
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Apr 2 21:18:42 2023 -0600
+
+    Added comments and cleaned up some code
+
+commit a11a9188da20b937de1ad0ead9ff8664b0324a73
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Apr 2 20:40:40 2023 -0600
+
+    Finished passing all of the tests
+
+commit 7e49b1c471b405281f1112e3a36ddd437d7d067e
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Sun Apr 2 14:05:34 2023 -0600
+
+    forgot to track file oops.
+
+commit ee15347375730961177014c01e101100c5ae67d4
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Sun Apr 2 13:58:44 2023 -0600
+
+    Worked on last test to pass, have not passed yet.
+
+commit bdf7a117281db95e85355005ea788c14cf8c7f41
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Apr 2 12:28:58 2023 -0600
+
+    Most tests pass, only a couple left that fail for selectTarget
+
+commit 9e03a8a967e9a883e125077be8a415abb7abfe83
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sat Apr 1 13:35:20 2023 -0600
+
+    Finished creating tests, all tests fail now
+
+commit 07e94780f21be8861c58cdd14ff8adf48797da00
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Fri Mar 31 11:16:19 2023 -0600
+
+    Added new variables and tests
+
+commit ec35e24a149571841adaca9eb912d1510381f954
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Mar 30 13:17:32 2023 -0600
+
+    Added test for suggestion and accusation.
+
+commit 12805210446b0ba7f054c97b4d63cab3b0468b0b
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 30 13:04:36 2023 -0600
+
+    Submitted assignment
+
+commit cb38b66b59f86de56be6413858f1304a60dfef3f
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 30 12:57:04 2023 -0600
+
+    Refactored code by moving some code from loadSetupConfig into its own method to make code more organized.
+
+commit 77614974e2b99eb33e86b0d9c94b8d35c041e197
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 30 12:52:49 2023 -0600
+
+    Added final comments before refactoring
+
+commit 1bf26b663212de5aaa07e5a67e7e8aa03e9dde54
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Mar 30 12:30:42 2023 -0600
+
+    made changes in SetUp.
+
+commit 0ad43582f05493c091a10792e5fbc723b9955c0a
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Mar 30 10:45:54 2023 -0600
+
+    made skeleton code and comments for solution class.
+
+commit ff5001f6c893e7be73e509d6ec7527fccd099418
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Mar 30 10:44:12 2023 -0600
+
+    Refactored and renamed method.
+
+commit 0d21d524ba3c8b5113bed176cadd3f33da647703
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Mar 29 18:43:29 2023 -0600
+
+    Added code and comments so now all tests including setup pass
+
+commit 9e257480e530cdb24be7d9d7f356dee2cb81375f
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Mar 29 14:37:43 2023 -0600
+
+    Completed writing and failing the tests
+
+commit 264d494e4561c1e7f32afdb1e8a622a33fc52345
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Tue Mar 28 13:44:19 2023 -0600
+
+    Updated text file.
+
+commit bc94dafc68dd335d85e79793e5a488855e7da3c6
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Tue Mar 28 13:41:51 2023 -0600
+
+    Created classes and tests for cards.
+
+commit 98a02793157cf34160ffdfddd3daa3b65bb3f4e9
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Mar 26 12:47:27 2023 -0600
+
+    Changed multiple if statements into a switch statement
+
+commit 31ec18cfd1d7fc9dc3f29a6dd9a5649cb9058241
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Mar 26 12:39:07 2023 -0600
+
+    Removed multiple try catches where throws clause is more appropriate to clean up code
+
+commit 560ff2c3cb4970f5589f6c60f4f156d109ab2866
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Mar 26 12:32:11 2023 -0600
+
+    Did not set closets as rooms so no need to clear closet adjacency list when calculating adjacency lists
+
+commit 4d36315ac1442eb9670393eb80459c291609481b
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Mar 26 12:12:05 2023 -0600
+
+    Cleared any maps before initializing the board setup
+
+commit 614f30913e44294be9dbdf82a100b5d2bc3d7dab
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Mon Mar 20 11:18:04 2023 -0600
+
+    Removed white spaces.
+
+commit 13aa2846e0dc467027d180a618fde7d27b3d5b40
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Mon Mar 20 11:07:49 2023 -0600
+
+    Combined loop for calcAdjacencies.
+
+commit 8d3ce1610222031ac9f526deff4789357fb6f01d
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Fri Mar 17 13:08:00 2023 -0600
+
+    Added header blocks on all ClueGame classes.
+
+commit 2afa01728c1c7c47aa3650d4baf07d600b03093b
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Fri Mar 17 12:33:49 2023 -0600
+
+    Reduced variable names by combining variable names with same type.
+
+commit 782796e055ba1082a3ae4d89e4bad6926cf1d592
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 16 13:12:58 2023 -0600
+
+    Took out debug lines
+
+commit 9a09d836123d2865273115f8f70cfcd159eec6ae
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sat Mar 11 14:12:47 2023 -0700
+
+    Refactored the calcAdjacencies and added comments
+
+commit ced4c4956234c6e8656f8cc812a10597c6a22390
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sat Mar 11 13:45:30 2023 -0700
+
+    Made a few modification and now all tests pass
+
+commit 439789d3c034448003b26cf5d128ddf4302bd320
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Sat Mar 11 11:58:30 2023 -0700
+
+    Fixed most locations in BoardAdjTargetTest, but some files are not passing.
+
+commit e5b0de281336116c3e7402c866829dbac7f1979f
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Sat Mar 11 11:00:05 2023 -0700
+
+    Got most test to pass, and corrected BoardAdjTargetTest.
+
+commit 49f179159dc0c4970f8e1db2b856832e6a1bcae0
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Fri Mar 10 18:27:47 2023 -0700
+
+    Got a few tests to pass for BoardAdjTargetTest, still working on some errors
+
+commit aa5ece3c5460b48943c0c381f90e96f71852072d
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 9 21:31:13 2023 -0700
+
+    Made more changes
+
+commit f4eeab3195453238f10004b71c2bfa2dda7b17df
+Merge: 5f162fa 0c22501
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 9 20:57:47 2023 -0700
+
+    Merge branch 'main' of https://github.com/irfanokirana/ClueGame2
+    Merged
+
+commit 5f162faa416947acca6eb57b611f56b8486b9915
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 9 20:57:33 2023 -0700
+
+    Working on tests
+
+commit 0c225017d5dd437117b633a457520aada6b4b6bb
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Mar 9 18:35:30 2023 -0700
+
+    Corrected secret passage lablels
+
+commit a7ba02abba2332fef1578551f5aaa2eb3f59677a
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 9 18:30:54 2023 -0700
+
+    Added changes
+
+commit 16f577561a1ba0575589a111670686ad704d31a4
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Mar 8 22:01:22 2023 -0700
+
+    Continued working on board adjacency tests
+
+commit 89e5f9300f3ff96b8a3c64cc5c6130d568c89875
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Mar 7 21:39:00 2023 -0700
+
+    Trying to get Adjecency tests to pass
+
+commit 0c5e893b0f4e5820f73e893405d81be48fc577ca
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Tue Mar 7 16:45:27 2023 -0700
+
+    Fixed correct locations and updated Clue Layout.
+
+commit 7804a1116fab92a4636a857d5fd0d86fd2e7ba23
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Mar 7 13:43:23 2023 -0700
+
+    Started to modify adjacency calculations
+
+commit 8bb59ea6207a80d669cc60808299c0bf9af72db2
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Tue Mar 7 12:28:47 2023 -0700
+
+    Added updated Clue layout.
+
+commit 403ed262d15f6ff0cb1e83ff3386b7ea71eb5d12
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Mar 6 18:58:24 2023 -0700
+
+    Added throws clause, now new tests cases fail, rest still pass
+
+commit 5e0d583363d6143a18b5a2276ed06f0f1465935b
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Mon Mar 6 18:37:00 2023 -0700
+
+    Added BoardAdjTargetTest class and changed to correct locations.
+
+commit f3f5b21671a73d410812eda14bd4aec6021070a5
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Mar 6 16:03:11 2023 -0700
+
+    Added text files
+
+commit a605486d93607b77367defc7369b5418bfa420db
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Mar 6 15:57:33 2023 -0700
+
+    Refactored a few names and function
+
+commit deaa56158249eb267f01ca9299d782aba386eeac
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Mar 6 15:45:27 2023 -0700
+
+    Finished code for Clue Init 2 and all tests pass!
+
+commit f1188e62a6db49f711e818923ffd2cb200b9a97b
+Merge: bd94da9 1ff07b1
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Mar 6 14:39:02 2023 -0700
+
+    Merged
+
+commit bd94da972ee671e2d0849426562b132744c72ce0
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Mar 6 14:37:06 2023 -0700
+
+    Cleaned up a bit
+
+commit 1ff07b13e6d85f143c531c1a27de9c70645c9c80
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Mon Mar 6 13:52:28 2023 -0700
+
+    Got ExceptionTest to pass but FileInit had errors again. There may be some problems with our files.
+
+commit 101e10235e3b40c649ed97dd645dcb2850bc5cb7
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Mon Mar 6 09:43:05 2023 -0700
+
+    Tests for FileInitTest306 and FileInitTest all pass, however, exception tests do not
+
+commit e799625e19ebc1dc530431138d0033ca90118a30
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Mar 5 19:22:17 2023 -0700
+
+    Updated Board class, most tests pass now, still some that fail
+
+commit 18805fbb976a9b74a0b6c252826fcfe243b5f966
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Sun Mar 5 17:11:23 2023 -0700
+
+    Added to BoardCell class and got ExceptionTest306 to pass
+
+commit 36260c5969d588d8762128d1f32186c351820b95
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Mar 5 16:15:13 2023 -0700
+
+    Fixed a few errors to loadLayoutConfig
+
+commit 38fbb6b97926b7ac2ae7b09fd37826750cbab10b
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Sun Mar 5 15:36:35 2023 -0700
+
+    created a generateAdjacencies, test have not passed yet.
+
+commit 61f0ed39657f92922fbcb3a0a63afb4e7f40e2a6
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sun Mar 5 12:47:45 2023 -0700
+
+    Still working on Clue Init2, made some progress, still a few errors though
+
+commit 11cc5f615a4e83c329c781c2345ef67275bdbc52
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Sat Mar 4 16:03:38 2023 -0700
+
+    Added to loadLayoutConfig method in Board Class
+
+commit 6c74665e468e9d28c5f08b4878af393abe9c086d
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Fri Mar 3 21:43:52 2023 -0700
+
+    Added to Board class
+
+commit 5aca56d75ad226834f523972806e0690e20b6c22
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Fri Mar 3 09:52:54 2023 -0700
+
+    Made changes to loadLayoutConfig method in Board class
+
+commit b3a534ccd0a8670cea65db3fe376445e0d1e5a17
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 2 20:13:18 2023 -0700
+
+    managed to get row and column count to work, but still many errors left
+
+commit 33f5a2ed1ee40a8273941117160e2abdb8c4ebf3
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Thu Mar 2 13:42:46 2023 -0700
+
+    Made edits to Board class, trying to read files
+
+commit dc8443592b6acf0a340c04e1284768173090d7ac
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Mar 2 12:04:15 2023 -0700
+
+    Fixed labeling
+
+commit ce99db7aec07b197d34a3e63428db78ac87fb2ee
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Mar 2 11:36:04 2023 -0700
+
+    Created constructor for exception tests
+
+commit 9ab62af0da681b3796ebd520be9f2d931b3b81d8
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Mar 2 11:14:33 2023 -0700
+
+    Added comments
+
+commit e1f07915d116c87ec11da590f0746583f30a335d
+Merge: c2d87f1 b45b4ce
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Mar 1 18:36:47 2023 -0700
+
+    Merge branch 'main' of https://github.com/irfanokirana/ClueGame2
+    
+    Merging our work
+
+commit c2d87f1473fb3d6fe9dc444311853b0a4dfe006b
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Mar 1 18:20:03 2023 -0700
+
+    Modified classes andcreated FileInitTest for our own project. All tests currently fail, but no errors
+
+commit 021f92aafea592d07738ca57c4e076b53b13e6c1
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Wed Mar 1 16:10:54 2023 -0700
+
+    Added readme file and added Classes for Clue Init project
+
+commit b45b4ce74df62931707b0e74fbd861086c1a34c9
+Author: denisha-s <123611124+denisha-s@users.noreply.github.com>
+Date:   Wed Mar 1 16:00:21 2023 -0700
+
+    Add files via upload
+
+commit ec48df69b1c1baff3cd0ac4c3e895ddae813c3c0
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Tue Feb 28 22:21:51 2023 -0700
+
+    Added new test cases for BoardTestsExp and passed all test forTestBoard
+
+commit 53d3f0832c93eb3bbf88697d6b43272ff081bbd9
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Feb 28 16:55:47 2023 -0700
+
+    Added to the findAllTargets class and calcTargets class but there are still errors
+
+commit 90317772be7b9d16901a62cbbab7b57607867cc2
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Feb 28 13:43:43 2023 -0700
+
+    Started on findAllTargets method
+
+commit 2ce61ad7f1f1e5f19d87fa652c19544db2ad728e
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Tue Feb 28 13:17:37 2023 -0700
+
+    Modiefied testBoard class
+
+commit 6d7f20933e2c6a0e612f2e7590afe66a0710d834
+Author: kiranairfano <kiranairfano@mines.edu>
+Date:   Tue Feb 28 13:11:10 2023 -0700
+
+    Initial commit

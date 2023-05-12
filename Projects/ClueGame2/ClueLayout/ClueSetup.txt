@@ -1,0 +1,13 @@
+// Rooms and room cards 9
+Room, Macy's, M
+Room, Target, T
+Room, Sephora, S
+Room, Pacsun, P
+Room, Apple, A
+Room, H&M, H
+Room, DSW, D
+Room, Nike, N
+Room, Food Court, F
+// other spaces on board
+Space, Unused, X
+Space, Walkway, W

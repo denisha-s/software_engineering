@@ -1,0 +1,27 @@
+// Rooms and room cards 9
+Room, Macy's, M
+Room, Target, T
+Room, Sephora, S
+Room, Pacsun, P
+Room, Apple, A
+Room, H&M, H
+Room, DSW, D
+Room, Nike, N
+Room, Food Court, F
+// other spaces on board
+Space, Unused, X
+Space, Walkway, W
+// Players
+Player, Selena, Pink, Human, 0, 5
+Player, Justin, Blue, Computer, 0, 15
+Player, Hailey, Red, Computer, 23, 6
+Player, Kylie, Green, Computer, 23, 15
+Player, Taylor, Orange, Computer, 6, 0
+Player, Abel, Magenta, Computer, 15, 21
+// Weapons
+Weapon, Pepper spray
+Weapon, Plastic bag
+Weapon, Tazer
+Weapon, Baseball bat
+Weapon, Blender
+Weapon, Acid
