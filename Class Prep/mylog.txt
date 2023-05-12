@@ -1,0 +1,8 @@
+* c52e35b (HEAD -> master, feet) Created badly drawn feet
+*   2669000 Merge branch 'addmouse'
+|\  
+| * 5dc3cf6 (addmouse) Changed squeak to eeek.
+| * 5dcdeb5 Created mouse class and updated MyDrawing class.
+* | 4d89735 (catears) Added cat ears and updated draw function.
+|/  
+* 1874351 Added whiskers and updated draw function.

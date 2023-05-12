@@ -1,0 +1,20 @@
+Q1:
+On line 33 the method charAt was called from the Java string libraray.
+Line 11 which asks the third test triggered the error in main.
+The exception in thread "main" has an error string index out of range: 4
+
+Q2:
+At line 30 in the WorldAnalyzer class, you have to subtract word.length() by 1. The last 2 test cases outputs "No repeated character."
+
+Q3:
+The first 3 test runs correctly, however, the last test returns an error saying there's an exception in thread "main".
+The error specifies by saying there's an assertionError at the 3 classes.
+
+Q4:
+aabbcdaaaabb, this values is correct since it's the value that's assigned.
+
+Q5:
+c_index has a value of 2 which is not correct since it skips the first 2 a's in the string.
+
+Q6:
+On line 57 int i = pos + 1 to correct the value of c_index.

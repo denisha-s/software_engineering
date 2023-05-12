@@ -1,0 +1,19 @@
+1. Two draw methods in piece and title class, tile should be changed for clarity to drawTile. Then also change line 67 in Board class to drawTile as well.
+
+2. The top of each class there should be a short comment block describing the class. Tile class is missing the description of the class. A description of tiles stores tile information.
+
+3. In Piece class, constructor should be before the draw method to follow the general class format.
+
+4. In tile class, line 24 and 25, declaring symbol as string should be before if statement.
+
+5. King attribute should not be public and should be changed to private.
+
+6. In the Tile class on line 13: private constructor Piece piece; should be more descriptive by saying private Piece getPiece;.
+
+7. In Board class on line 9: boardDimension should be in all caps to follow the consistency of NUM_PIECE_ROWS. This should be changed to BOARD_DIMENSION.
+
+8. In board class, variable boardPiecesArrayList is too long and can be condensed to pieceArrayList since it's already defined in board class.
+
+9. In piece class, a comment block describing the draw method is missing. The top of each method there should be a short comment clock descriping the method.
+
+10. In piece and tile class, you can remove int row and int column so there's no duplication and have less code to look at.

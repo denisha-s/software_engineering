@@ -1,0 +1,74 @@
+Git Merging Demo Steps 
+
+Create SomeClass
+Add method fnOne [syso: I couldn't repair your brakes, so I made your horn louder]
+Run
+git bash
+cd to directory
+git init
+git status
+git add *.java
+git status
+git commit -m "Initial"
+chg fnOne to thoughtForTheDay
+git status
+git commit -a -m "Refactored fnOne"
+git checkout -b addEvents
+add upcomingEvents [syso: Party at Jane's house tomorrow]
+git commit -a -m "Added events"
+add header to upcomingEvents
+try: git checkout master, see error
+git commit -a -m "Refined events"
+now: git checkout master
+revise thought for the day: On the other hand, you have different fingers
+git commit -a -m "New thought for the day"
+git branch --no-merged (see addEvent)
+git merge addEvents [ success!  different parts of the file]
+git branch --no-merged
+git branch --merged
+git checkout -b moreEvents
+Modify program:
+variable:
+	private ArrayList<String> events = new ArrayList<String>();
+new method:	
+	public void createEvents() {
+		events.add("We're going to a movie on Saturday");
+		events.add("Study session on Sunday - Jim's house");
+	}
+change method:	
+	public void upcomingEvents() {
+		System.out.println("Upcoming Events");
+		for (String event : events)
+			System.out.println(event);
+	}
+call in main:
+			sc.createEvents();
+
+git commit -a -m "Add multiple events"
+git checkout master
+modify upcomingEvents ["Dinner at Katie's on Friday"]
+add SomeClass sc = new SomeClass() to main
+git commit -a -m "Different event"
+git merge moreEvents [ conflicts! need to resolve]
+in Editor, notice the lines with issues, fix!
+>> how?  remove lines from head, remove lines with === and <<<
+>> in general? first decide which to keep, make these kinds of 
+>> changes.
+git branch --no-merged
+git merge [ won't let you yet!]
+git commit -a -m "Merged event handling"
+git branch --no-merged
+git branch --merged
+git checkout moreEvents
+modify: Upcoming Events - Please join us!
+git commit -a -m "More friendly events"
+git checkout master
+press up-arrow, git branch --no-merged
+git merge moreEvents [success! it's only a conflict if 2 changes]
+git log 
+git log -p -2
+git log --pretty=oneline
+git log --pretty=format:"%s" --graph
+git log --pretty=format:"%s" --graph > mylog.txt
+git config --global alias.gr 'log --pretty=format:"%s" --graph'
+
