@@ -1,0 +1,35 @@
+commit 529daec31a3d478de54a2948a30e9a77a692bd7b
+Author: Patrick Maes <patrickmaes@mines.edu>
+Date:   Sat Jan 28 19:00:44 2023 -0700
+
+    Fixed error and removed unneeded updateStatus function. Output matches test output.
+
+commit 3878338395ebb5a2407895976cca8d9e65addb3a
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Sat Jan 28 18:19:19 2023 -0700
+
+    created displayStove in burner class and added display class in stove class
+
+commit 4178c4ba84a2a81c0970263ff727ae17582902d0
+Author: Patrick Maes <patrickmaes@mines.edu>
+Date:   Sat Jan 28 01:48:11 2023 -0700
+
+    Created updateTempurature and a new function checkStatus to continue updating temperature if not at the correct temp for the setting. (Largely untested)
+
+commit d4242e026a364c0af328318f9d2e86519596d1b1
+Author: Patrick Maes <patrickmaes@mines.edu>
+Date:   Fri Jan 27 18:37:32 2023 -0700
+
+    Created plus/minus button, resolved all initial errors, updated .gitignore file
+
+commit f64861f2a32c837dcf34bd15ae3189d226be1e82
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Fri Jan 27 15:11:53 2023 -0700
+
+    Created burner and setting classes
+
+commit b1fc50f9f5eccaaece83693a90cef96a6a46f0e4
+Author: Denisha Saviela <dsaviela@mines.edu>
+Date:   Thu Jan 26 13:45:32 2023 -0700
+
+    intial stove class.

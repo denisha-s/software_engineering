@@ -1,0 +1,21 @@
+-The Rock class implements Drawable so it has no interaction and is not an actual game piece in KerPlop. The player can also land on top of the Rock.
+
+-The Snake class extends GamePiece and implements Moveable. The Snake can move randomly 2 spaces and interact with the Player with HIT. The snake is not visible to the player.
+
+-The LostMoney class extands GamPiece and implements Moveable. The LostMoney moves randomly to open spaces and interacts with the player with GET_POINT. This is also the only
+way to win on level 2.
+
+-The Black Hole class extands GamePiece and implements Drawable. It interacts with the player with ADVANCE, only if a player is directly next to the black hole (Not on top).
+
+-The Lava Pit class extends GamePiece and implements Drawable. This class interacts with the player with KILL if they are within 2 spaces. If a piece or prize is in the lava, landing on it will kill the player.
+
+-The Gold class extands GamePiece and interacts with the player with GET_POINT. It also interacts using ADVANCE, but only if a player lands on it.
+
+ INTERACT ON SAME SPACE:
+Gold, LostMoney, Snake
+
+MOVE RANDOMLY:
+Snake and LostMoney (Different Algorithms)
+
+
+
